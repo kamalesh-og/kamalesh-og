@@ -42,6 +42,7 @@ I'm Kamalesh, a Machine Learning enthusiast passionate about building projects. 
 </div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c18c5c0a-d727-4fce-af0d-a301c28286c8" width="80%" height="240px" />
+  <img src="https://github.com/user-attachments/assets/6e52c971-a4e0-4480-a64b-702474985e54" width="80%" height="240px" />
 </div>
 <!--
 **kamalesh-og/kamalesh-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
